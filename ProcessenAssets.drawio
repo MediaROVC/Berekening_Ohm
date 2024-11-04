@@ -1,0 +1,267 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1434" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Aanvraag Asset" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Tlpv36UatDwUw8dR6eWf-1" target="bW_z_8MoUmyPL9clS2c4-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tlpv36UatDwUw8dR6eWf-1" value="Ontwerp opdracht" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1000" y="40" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tlpv36UatDwUw8dR6eWf-13" value="Onderdeel van groot aantal?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="585" y="160" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Tlpv36UatDwUw8dR6eWf-15" value="Klein aantal" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="270" y="333" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Tlpv36UatDwUw8dR6eWf-17" target="Tlpv36UatDwUw8dR6eWf-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tlpv36UatDwUw8dR6eWf-17" value="Nieuwe asset" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="300" y="50" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tlpv36UatDwUw8dR6eWf-14" value="&lt;div&gt;Groot aantal&lt;br&gt;&lt;/div&gt;Cursus/Module/" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="50" y="323" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tlpv36UatDwUw8dR6eWf-19" value="Bewerken asset" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;arcSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="450" y="50" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Tlpv36UatDwUw8dR6eWf-20" target="bW_z_8MoUmyPL9clS2c4-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tlpv36UatDwUw8dR6eWf-20" value="Ontwikkelstraat Procedure zet door naar Opmaak" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tlpv36UatDwUw8dR6eWf-21" value="Canto procedure" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="850" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-0" value="CANTO - per opdracht in tijdelijke map" style="swimlane;whiteSpace=wrap;html=1;spacing=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="608" width="320" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-1" value="&lt;span style=&quot;font-weight: 700; text-align: center; text-wrap: wrap; background-color: initial;&quot;&gt;Map naam: Cursus/modulenaam+afkorting&lt;/span&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;00 - Nieuwe aanvragen&lt;/li&gt;&lt;li&gt;05 - Updaten assets&lt;/li&gt;&lt;li&gt;10 - Interne check&lt;/li&gt;&lt;li&gt;20 - Inhoud Beoordelen&lt;/li&gt;&lt;li&gt;30 - Afgekeurd&lt;/li&gt;&lt;li&gt;40 - Goedgekeurd&lt;/li&gt;&lt;li&gt;Bronbestanden&lt;/li&gt;&lt;li&gt;Openstaande vragen&lt;/li&gt;&lt;li&gt;Uploaden ondersteunende materialen&lt;/li&gt;&lt;li&gt;Vervangen en verwijderen&lt;/li&gt;&lt;li&gt;Samengesteld&lt;/li&gt;&lt;li&gt;Samenvoegen&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="bW_z_8MoUmyPL9clS2c4-0" vertex="1">
+          <mxGeometry x="10" y="25" width="270" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" parent="bW_z_8MoUmyPL9clS2c4-0" vertex="1">
+          <mxGeometry x="30" y="65" width="280" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-2" value="CANTO" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="50" y="144" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-6" value="&lt;span style=&quot;font-weight: 700; text-wrap: wrap;&quot;&gt;Cursusmateriaal/&lt;/span&gt;&lt;span style=&quot;font-weight: 700; text-wrap: wrap; background-color: initial;&quot;&gt;Ontwikkeling/&lt;/span&gt;&lt;div style=&quot;font-weight: 700; text-wrap: wrap;&quot;&gt;Nieuwe aanvragen&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=0;" parent="bW_z_8MoUmyPL9clS2c4-2" vertex="1">
+          <mxGeometry x="10" y="26" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-7" value="CANTO - alle korte opdrachten in permanente map" style="swimlane;whiteSpace=wrap;html=1;spacing=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="460" y="678" width="330" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-8" value="&lt;span style=&quot;font-weight: 700; text-align: center; text-wrap: wrap; background-color: initial;&quot;&gt;Map naam: Korte opdrachten&lt;/span&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;00 - Nieuwe aanvragen&lt;/li&gt;&lt;li&gt;05 - Updaten assets&lt;/li&gt;&lt;li&gt;&lt;strike&gt;10 - Interne check&lt;/strike&gt;&lt;/li&gt;&lt;li&gt;&lt;strike&gt;20 - Inhoud Beoordelen&lt;/strike&gt;&lt;/li&gt;&lt;li&gt;&lt;strike&gt;30 - Afgekeurd&lt;/strike&gt;&lt;/li&gt;&lt;li&gt;&lt;strike&gt;40 - Goedgekeurd&lt;/strike&gt;&lt;/li&gt;&lt;li&gt;Bronbestanden&lt;/li&gt;&lt;li&gt;&lt;strike&gt;Openstaande vragen&lt;/strike&gt;&lt;/li&gt;&lt;li&gt;Uploaden ondersteunende materialen&lt;/li&gt;&lt;li&gt;&lt;strike&gt;Vervangen en verwijderen&lt;/strike&gt;&lt;/li&gt;&lt;li&gt;Samengesteld&lt;/li&gt;&lt;li&gt;Samenvoegen&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="bW_z_8MoUmyPL9clS2c4-7" vertex="1">
+          <mxGeometry x="10" y="25" width="260" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" parent="bW_z_8MoUmyPL9clS2c4-7" vertex="1">
+          <mxGeometry x="10" y="70" width="280" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" parent="bW_z_8MoUmyPL9clS2c4-7" vertex="1">
+          <mxGeometry x="10" y="57.5" width="280" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-9" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="90" y="413" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-10" value="&lt;ol&gt;&lt;li&gt;Aanmaak mappenstructuur&lt;/li&gt;&lt;li&gt;Aanmaak workflows:&lt;br&gt;- Basis workflow;&lt;br&gt;- Vragen&lt;br&gt;- Update enkele assets&lt;a style=&quot;box-sizing: border-box; background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); cursor: pointer; font-family: canto-font; font-size: 15px;&quot; class=&quot;accordion-toggle&quot; tabindex=&quot;0&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;ng-binding&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/a&gt;- Vervangen en verwijderen&lt;br&gt;- Samengevoegd&lt;/li&gt;&lt;li&gt;Aanmaak upload link voor map Uploaden ondersteunende materialen&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="80" y="433" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-25" value="Ja" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Tlpv36UatDwUw8dR6eWf-13" target="bW_z_8MoUmyPL9clS2c4-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="879.9999999999998" y="242.69999999999965" as="sourcePoint" />
+            <mxPoint x="822.3474322860236" y="397.3" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-24" value="&lt;b&gt;Verzameling maken met naam van opdracht map&lt;/b&gt;&lt;div&gt;&lt;b&gt;Delen met vormgeving. Bestanden toevoegen&lt;/b&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="860" y="790" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.286;entryY=-0.008;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Tlpv36UatDwUw8dR6eWf-13" target="bW_z_8MoUmyPL9clS2c4-92" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="180" as="sourcePoint" />
+            <mxPoint x="540" y="423" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="539" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-60" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bW_z_8MoUmyPL9clS2c4-27" vertex="1" connectable="0">
+          <mxGeometry x="0.1537" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Tlpv36UatDwUw8dR6eWf-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="140" as="sourcePoint" />
+            <mxPoint x="610" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Tlpv36UatDwUw8dR6eWf-21" target="Tlpv36UatDwUw8dR6eWf-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="681" y="130" as="sourcePoint" />
+            <mxPoint x="440" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="140" />
+              <mxPoint x="670" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.511;exitY=0.87;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Tlpv36UatDwUw8dR6eWf-15" target="bW_z_8MoUmyPL9clS2c4-48" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="433" as="sourcePoint" />
+            <mxPoint x="479.9999999999998" y="719.875" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="440" />
+              <mxPoint x="360" y="450" />
+              <mxPoint x="410" y="743" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.706;entryY=0.149;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="Tlpv36UatDwUw8dR6eWf-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="Tlpv36UatDwUw8dR6eWf-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="70" />
+              <mxPoint x="450" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.498;entryY=0.218;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Tlpv36UatDwUw8dR6eWf-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="270" as="sourcePoint" />
+            <mxPoint x="60" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="300" />
+              <mxPoint x="120" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Tlpv36UatDwUw8dR6eWf-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="270" as="sourcePoint" />
+            <mxPoint x="440" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="300" />
+              <mxPoint x="320" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="70" y="685.5" width="280" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-49" value="Samengestelde&lt;div&gt;asset maken&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1000" y="149" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-51" value="PDF met briefing&lt;br&gt;kopie maken = briefing =&amp;gt; Map: Uploaden ondersteunende materialen&lt;div&gt;origineel = werkbestand&lt;/div&gt;&lt;div&gt;aan elkaar koppelen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1150" y="10" width="350" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-54" value="Opmerkingen veld positie 2,4,5,6 enz aangeven&lt;br&gt;&lt;div&gt;1 bestand&amp;nbsp; = werkbestand&lt;/div&gt;&lt;div&gt;de rest aan elkaar koppelen&amp;nbsp; en plaatsen in map: Samengesteld&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1150" y="139" width="350" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-55" value="Proces Basis workflow nieuw aanvragen" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1010" y="260" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-56" value="Proces Updaten Assets" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1010" y="360" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.409;exitY=0.974;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bW_z_8MoUmyPL9clS2c4-92" target="bW_z_8MoUmyPL9clS2c4-30" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="453" as="sourcePoint" />
+            <mxPoint x="810" y="743" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="589" y="453" />
+              <mxPoint x="810" y="453" />
+              <mxPoint x="810" y="754" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-63" value="Lijnen Constante Druk Temperatuur" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1010" y="460" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-64" value="Kan&lt;br/&gt;de asset overal gewijzigd worden?" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="610" y="50" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bW_z_8MoUmyPL9clS2c4-64" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="130" as="sourcePoint" />
+            <mxPoint x="850" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-66" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bW_z_8MoUmyPL9clS2c4-65" vertex="1" connectable="0">
+          <mxGeometry x="-0.1237" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.704;entryY=0.89;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bW_z_8MoUmyPL9clS2c4-64" target="Tlpv36UatDwUw8dR6eWf-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="320" as="sourcePoint" />
+            <mxPoint x="500" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="140" />
+              <mxPoint x="370" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-68" value="Nee, verwijs in de opdracht naar de basis" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bW_z_8MoUmyPL9clS2c4-67" vertex="1" connectable="0">
+          <mxGeometry x="0.1727" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bW_z_8MoUmyPL9clS2c4-24" target="bW_z_8MoUmyPL9clS2c4-47" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="963" as="sourcePoint" />
+            <mxPoint x="480" y="913" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="960" />
+              <mxPoint x="380" y="960" />
+              <mxPoint x="380" y="692" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.88;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Tlpv36UatDwUw8dR6eWf-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="633" as="sourcePoint" />
+            <mxPoint x="119" y="433" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bW_z_8MoUmyPL9clS2c4-10" target="bW_z_8MoUmyPL9clS2c4-23" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="633" as="sourcePoint" />
+            <mxPoint x="500" y="583" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="600" />
+              <mxPoint x="30" y="600" />
+              <mxPoint x="30" y="676" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="150" y="230" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-84" value="PM/PO maakt gedeelde verzameling:&lt;div&gt;&lt;b&gt;Korte Opdracht Cursus/Module/afkorting Nieuwe Aanvraag&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Vormgeving zet bestanden in de map&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;size=0.05;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="510" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bW_z_8MoUmyPL9clS2c4-92" value="PM/PO maakt gedeelde verzameling:&lt;div&gt;&lt;b&gt;Korte Opdracht Cursus/Module/afkorting Update Aanvraag&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Vormgeving zet bestanden in de map&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;size=0.05;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="425" y="300" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sJiykjnJDGiM6jpTWPgm-0" value="Proces: Onbekend versie of aanpassen" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="560" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sJiykjnJDGiM6jpTWPgm-1" value="Bij twijfel, standaard nieuwe versie.&lt;div&gt;Bestanden verzamelen via Workflow en periodiek overleg tussen PM/PO-ers besluiten wel als nieuwe versie houden of verwijderen en vervangen in ontwikkelstraat.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1160" y="560" width="350" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
