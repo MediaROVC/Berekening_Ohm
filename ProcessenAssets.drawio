@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -268,6 +268,80 @@
             <mxPoint x="418" y="50" as="sourcePoint" />
             <mxPoint x="590" y="389" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vCiIGmvjFXUHB2TXko9J" name="Pagina-2">
+    <mxGraphModel dx="1050" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fGXotkPrvBv1XOXYopZs-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Procedure aanvraag asset buiten opdracht voor externe vormgever - beschikbaar maken asset&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="30" width="650" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXotkPrvBv1XOXYopZs-2" value="Wat is het doel van de aanvraag?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="130" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXotkPrvBv1XOXYopZs-3" value="Updaten van bestaande asset die nog niet in de huidige opdracht is opgenomen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="240" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXotkPrvBv1XOXYopZs-4" value="Toevoegen aan bestaande grote opdracht" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="350" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXotkPrvBv1XOXYopZs-5" value="Gebruiken als basis om een andere asset bij te werken" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="240" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXotkPrvBv1XOXYopZs-6" value="In Cursumateriaal Portal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="200" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXotkPrvBv1XOXYopZs-7" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="810" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXotkPrvBv1XOXYopZs-8" value="Welke map gebruiken?&lt;div&gt;Ondersteunende materialen&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fGXotkPrvBv1XOXYopZs-7">
+          <mxGeometry x="15" y="33" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXotkPrvBv1XOXYopZs-9" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="269" y="810" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXotkPrvBv1XOXYopZs-10" value="Welke map gebruiken?&lt;div&gt;Bestaande Opdracht map&lt;/div&gt;&lt;div&gt;05-updaten Asset?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fGXotkPrvBv1XOXYopZs-9">
+          <mxGeometry x="20" y="50" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXotkPrvBv1XOXYopZs-25" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;" vertex="1" parent="fGXotkPrvBv1XOXYopZs-9">
+          <mxGeometry x="85" y="-10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXotkPrvBv1XOXYopZs-11" value="Verzameling aanmaken volgens conventie:&lt;div&gt;XXXXX&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="340" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXotkPrvBv1XOXYopZs-13" value="Verzameling aanmaken volgens conventie:&lt;div&gt;XXXXX&lt;/div&gt;&lt;div&gt;en delen met vormgeving&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="450" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXotkPrvBv1XOXYopZs-14" value="Assets aanvragen onder dezelfde naam" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="530" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXotkPrvBv1XOXYopZs-15" value="Vormgever geeft toestemming tot downloaden" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="616" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXotkPrvBv1XOXYopZs-17" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXotkPrvBv1XOXYopZs-18" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="36" y="740" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXotkPrvBv1XOXYopZs-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fGXotkPrvBv1XOXYopZs-19" target="fGXotkPrvBv1XOXYopZs-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXotkPrvBv1XOXYopZs-19" value="Vormgever plaatst de assets in de map" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="289" y="450" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXotkPrvBv1XOXYopZs-20" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="239" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXotkPrvBv1XOXYopZs-21" value="Externe Vormgever download de assets en bewerkt ze" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="89" y="740" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fGXotkPrvBv1XOXYopZs-22" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="41" y="617" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
