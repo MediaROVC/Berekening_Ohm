@@ -316,8 +316,8 @@
         <mxCell id="fGXotkPrvBv1XOXYopZs-13" value="Verzameling aanmaken volgens conventie:&lt;div&gt;XXXXX&lt;/div&gt;&lt;div&gt;en delen met vormgeving&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="450" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fGXotkPrvBv1XOXYopZs-14" value="Assets aanvragen onder dezelfde naam" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="530" width="150" height="60" as="geometry" />
+        <mxCell id="fGXotkPrvBv1XOXYopZs-14" value="Assets aanvragen onder dezelfde naam - hoeft niet - gewoon klaarzetten in Werkmap" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="670" y="460" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fGXotkPrvBv1XOXYopZs-15" value="Vormgever geeft toestemming tot downloaden" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="79" y="616" width="150" height="60" as="geometry" />
